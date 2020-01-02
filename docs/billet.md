@@ -2,27 +2,30 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2019
+ - Lieu : Kindarena de Rouen
+ - Conférence : Et si Mario était UX designer
+ - Horaire de la conférence : 14h30
+ - Durée de la conférence : 50 min
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
+   - [Alexandra Nemery](https://www.linkedin.com/in/alexandra-nemery-76a051a/)
+   - [Sarah Colmon](https://www.linkedin.com/in/sarah-colmon-b82738a8/)
+ - Audience : 150
+ - Auteur du billet : Handi Zhang
+ - Mots-clés : jeu vidéo, UX designer
+ - URL de l'illustration : ![Photo de Mario](oscar-keys-58399-unsplash.jpg)
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
+ - Lien vers le support (diapos) présenté en conférence: N/A
+ - Nombre de diapos du support : 
  - Plan du support :
 
 ## Résumé
-...
+Alexandra Nemery et Sarah Colmon ont présenté une conférence très intéressante et impressionnante. Elles nous ont demandé une question au début de cette conférence, 
+UX design service à qui? Evidemment, les utilisateur. Et pour le cas de jeu vidéo, C'est les joueurs. Il y a quatre types de joueurs, les collectionneurs, les socialiseurs, les compétiteurs et les explorateurs. Les collectionneurs se donnent pour but finir le jeu le plus vite possible, terminer toutes les quêtes, accumuler les pièces d'or ou les objets rares. Les socialiseurs tendent à interagir avec les autres joueurs. Les compétiteurs cherchent à arriver la première position dans un jeu. Et les explorateurs sont plus intéressés par visiter toutes les régions de la carte et cherchent les passages secrets. Donc, même si ces quatre types de joueurs jouent le même jeu vidéo, ses expériences sont differentes. Donc, le rôle d'un UX designer est pour analyser et satisfaire leur attentes et leur besoins. 
+
+Après l'analyse d'avantage et inconvénient de quelques jeu vidéos, nous avons obtenu un résultat. Les utilisateurs sont différents et leur attentes sont différentes, donc les UX designer doivent adapter les exigences de différent type d'utilisateurs.   
 
 ## Architecture et facteur qualité
 ...
