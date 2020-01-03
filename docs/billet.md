@@ -13,19 +13,23 @@
  - Audience : 150
  - Auteur du billet : Handi Zhang
  - Mots-clés : jeu vidéo, UX designer
- - URL de l'illustration : ![Photo de Mario](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
-
+ - URL de l'illustration : ![Photo de Mario](mario.jpg)
+   - quelques sources : https://www.journalducm.com/metier-ux-designer, https://elearningindustry.com/types-of-gamers-and-learner-engagement-4
 ## Support
  - Lien vers le support (diapos) présenté en conférence: N/A
- - Nombre de diapos du support : 
- - Plan du support :
+ - Nombre de diapos du support : N/A
+ - Plan du support : 
+   - Introduction
+   - Différent type de joueur
+   - Example de UX design de quelques jeu vidéos
+   - Quiz
+   - Conclusion
 
 ## Résumé
 Alexandra Nemery et Sarah Colmon ont présenté une conférence très intéressante et impressionnante. Elles nous ont demandé une question au début de cette conférence, 
 UX design service à qui? Evidemment, les utilisateur. Et pour le cas de jeu vidéo, C'est les joueurs. Il y a quatre types de joueurs, les collectionneurs, les socialiseurs, les compétiteurs et les explorateurs. Les collectionneurs se donnent pour but finir le jeu le plus vite possible, terminer toutes les quêtes, accumuler les pièces d'or ou les objets rares. Les socialiseurs tendent à interagir avec les autres joueurs. Les compétiteurs cherchent à arriver la première position dans un jeu. Et les explorateurs sont plus intéressés par visiter toutes les régions de la carte et cherchent les passages secrets. Donc, même si ces quatre types de joueurs jouent le même jeu vidéo, ses expériences sont differentes. Donc, le rôle d'un UX designer est pour analyser et satisfaire leur attentes et leur besoins. 
 
-Après l'analyse d'avantage et inconvénient de quelques jeu vidéos, nous avons obtenu un résultat. Les utilisateurs sont différents et leur attentes sont différentes, donc les UX designer doivent adapter les exigences de différent type d'utilisateurs.   
+Après l'analyse d'avantage et inconvénient de quelques jeu vidéos, nous avons obtenu un résultat. Les utilisateurs sont différents et leur attentes sont différentes, donc les UX designer doivent adapter les exigences de différent type d'utilisateurs.
 
 ## Architecture et facteur qualité
 ...
