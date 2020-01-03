@@ -5,7 +5,7 @@
  - Manifestation : CodeursEnSeine 2019
  - Lieu : Kindarena de Rouen
  - Conférence : Et si Mario était UX designer
- - Horaire de la conférence : 14h30
+ - Horaire de la conférence : 14h30 - 15h20
  - Durée de la conférence : 50 min
  - Conférencier(s) :
    - [Alexandra Nemery](https://www.linkedin.com/in/alexandra-nemery-76a051a/)
@@ -17,11 +17,11 @@
    - quelques sources : https://www.journalducm.com/metier-ux-designer, https://elearningindustry.com/types-of-gamers-and-learner-engagement-4
 ## Support
  - Lien vers le support (diapos) présenté en conférence: N/A
- - Nombre de diapos du support : N/A
+ - Nombre de diapos du support : non dispo
  - Plan du support : 
    - Introduction
-   - Différent type de joueur
-   - Example de UX design de quelques jeu vidéos
+   - Différents types de joueurs
+   - Examples de UX design de quelques jeu vidéos
    - Quiz
    - Conclusion
 
