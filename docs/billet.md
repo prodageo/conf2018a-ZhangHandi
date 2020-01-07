@@ -32,4 +32,5 @@ UX design service à qui? Evidemment, les utilisateur. Et pour le cas de jeu vid
 Après l'analyse d'avantage et inconvénient de quelques jeu vidéos, nous avons obtenu un résultat. Les utilisateurs sont différents et leur attentes sont différentes, donc les UX designer doivent adapter les exigences de différent type d'utilisateurs.
 
 ## Architecture et facteur qualité
-Le sujet est "Et si Mario était UX designer?", dans ce nom du sujet, le mot plus important est "UX design". Toute la procédure est développé au tour de ce mots-clés. La définition des quatre types de joueurs est présenté pour passer à présenter le rôle d'un UX designer. Les avantages et inconvénients de certains jeu vidéos sont aussi présent pour nous laisser comprendre le rôle d'un UX designer plus précisément. 
+Ce sujet adapte le facteur qualité de conformité, parce que toute la présentation satisfait aux spécifications, c'est à dire, satisfaire à l'idée principale autour du rôle de UX désigner.
+
